@@ -1,0 +1,16 @@
+.param{
+width: 550px;
+margin: 0 auto;
+}
+
+.paramtext{
+    text-align: center;
+    color: grey;
+}
+
+.card{
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 5px;
+}
